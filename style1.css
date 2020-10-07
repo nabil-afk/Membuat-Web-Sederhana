@@ -1,0 +1,273 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+}
+.medsos{
+	padding: 5px 0;
+	background-color: #3DD3CC;
+}
+.medsos ul li{
+	display: inline-block;
+	color: #fff;
+	margin-left: 20px;
+}
+.container {
+	width: 85%;
+	margin: 0 auto;
+}
+.container:after {
+	content: '';
+	display: block;
+	clear: both; 
+}
+nav h1 {
+	
+	float: left;
+	padding:15px 0;
+	color: #3DD3CC;
+}
+nav ul {
+	
+	float: right;
+}
+nav ul li {
+	display: inline-block;
+
+}
+nav ul li a {
+	padding: 25px 20px;
+	display: inline-block;
+}
+nav ul li a:hover{
+	background-color: #3DD3CC;
+	color: #fff;
+}
+    
+
+.prod h2{
+    text-align: center;
+    color: #3DD3CC;
+    margin-bottom: 50px;
+}
+.satu img{
+    width: 400px;
+}
+.satu h4{
+    margin-left: 10px;
+    text-align: center;
+}
+.satu p{
+    text-align: center;
+}
+.satu .fas{
+    color: red;
+    margin-bottom: 30px; 
+    }
+.satu .button{
+    background-color: #3DD3CC ;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+
+}
+.dua img{
+    width: 400px; 
+}
+.dua h4{
+    margin-left: 10px;
+    text-align: center; 
+}
+.dua p{
+    text-align: center;
+}
+.dua .fas{
+    color: red;
+    margin-bottom: 30px;  
+}
+.dua .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+}
+.tiga img{
+    width: 400px;
+}
+.tiga h4{
+    margin-left: 10px;
+    text-align: center; 
+}
+
+.tiga p{
+    text-align: center;
+}
+.tiga .fas{
+    color: red;
+    margin-bottom: 30px; 
+}
+.tiga .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+}
+.empat img{
+    width: 400px;
+}
+.empat h4{
+    margin-left: 10px;
+    text-align: center;
+}
+.empat p{
+    text-align: center;
+}
+.empat .fas{
+    color: red;
+    margin-bottom: 30px; 
+    }
+.empat .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+}
+.lima img{
+    width: 400px;
+}
+.lima h4{
+    margin-left: 10px;
+    text-align: center;
+}
+.lima p{
+    text-align: center;
+}
+.lima .fas{
+    color: red;
+    margin-bottom: 30px; 
+    }
+.lima .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+}
+.enam img{
+    width: 400px;
+}
+.enam h4{
+    margin-left: 10px;
+    text-align: center;
+}
+.enam p{
+    text-align: center;
+}
+.enam .fas{
+    color: red;
+    margin-bottom: 30px; 
+    }
+.enam .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+
+}
+.tujuh img{
+    width: 400px;
+}
+.tujuh h4{
+    margin-left: 10px;
+    text-align: center;
+}
+.tujuh p{
+    text-align: center;
+}
+.tujuh .fas{
+    color: red;
+    margin-bottom: 30px; 
+    }
+.tujuh .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+
+}
+.delapan img{
+    width: 400px;
+}
+.delapan h4{
+    margin-left: 10px;
+    text-align: center;
+}
+.delapan p{
+    text-align: center;
+}
+.delapan .fas{
+    color: red;
+    margin-bottom: 30px; 
+}
+.delapan .button{
+    background-color: #3DD3CC;
+    padding: 5px 30px;
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    margin-left: 140px;
+}
+.about{
+    margin-bottom: 50px;
+}
+.about h2{
+   text-align: center;
+   color: #3DD3CC;
+   margin-top: 60px; 
+}
+.about p{
+    margin: 30px 100px;
+    font-family: Inter;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 180%;
+	text-align: center;
+     margin-left: 400px;
+}
+.kontak{
+    background-color: gainsboro;
+}
+.kontak h2{
+    text-align: center;
+    color: #3DD3CC;
+}
+.kontak form{
+   margin-left: 800px;
+}
+form .button{
+    color: white;
+    background: #3DD3CC;
+    padding: 5px 30px;
+    text-decoration: none;
+}
+.footer p{
+    margin-left: 800px;
+}
